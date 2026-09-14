@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🌷 Hi, I'm Mahrafa!
 
-<!--
-**mahru103/mahru103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩🏻‍💻 Who am I?
 
-Here are some ideas to get you started:
+I'm a **3rd-year CSE student** who loves learning, building small projects, and exploring the world of technology.
+Currently, I'm focusing on improving my programming and development skills. ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎀 What am I currently working on?
+
+* 🎮 Building **Rock Paper Scissors – Pixel Clash**
+* 💻 Learning and improving **Python & C**
+* 🌱 Exploring **Full Stack Development**
+* 🚀 Preparing for internships and new projects
+
+### 🛠️ Tools I use
+
+`Python` • `C` • `Git` • `GitHub` • `VS Code` • `CustomTkinter`
+
+### 💌 How to reach me
+
+* 💼 **LinkedIn:** [Mahrafa Hussaini](YOUR_LINKEDIN_LINK)
+* 🐙 **GitHub:** [@mahru103](https://github.com/mahru103)
+
+---
+
+✨ *Learning, building, and growing one project at a time.* ✨
